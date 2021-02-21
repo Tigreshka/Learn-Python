@@ -1,4 +1,3 @@
-# Zadanie 4.
 # Poprosić użytkownika o podanie roku oraz aktualnego miesiąca,
 # a następnie ile miesięcy chcemy dodać.
 # Wynik powinien wyświetlić nowy rok i miesiąc wynikający z odpowiedniego dodania.
